@@ -1,0 +1,26 @@
+body {
+	background-color: #f9e6e2;
+	text-align: center;
+}
+h1 {
+	color:#9a504f;
+} 
+
+p {
+	color: #000;
+	font-family: Helvetica, sans-serif;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+#skills {
+	text-align: left;
+}
+
+ul{
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	list-style-type: none;
+}
