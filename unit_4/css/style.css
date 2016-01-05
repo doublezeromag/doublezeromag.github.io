@@ -1,8 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Megrim);
+
 body {
 	text-align: center;
 }
 h1 {
+	font-family: 'Megrim', cursive; 
+	font-weight: 400;
+	font-size: 3em;
 	color:#9a504f;
+	line-height: 4px;
 } 
 
 p {
@@ -15,7 +21,7 @@ p {
 
 #slogan {
 	font-style: italic;
-	line-height: 0.05;
+	line-height: 4px;
 }
 
 #skills {
